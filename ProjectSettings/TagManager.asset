@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Coin
+  - Spikes
+  - Breakable
+  - ScoreBonus
+  - SpeedBonus
+  - EndOfLevel
+  - JumpButton
+  - background_back_1
+  - background_back_2
+  - background_back_3
+  - background_mid_1
+  - background_mid_2
+  - background_mid_3
+  - background_front_1
+  - background_front_2
+  - background_front_3
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - SolidPlatforms
+  - Breakables
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: sky
+    uniqueID: 3814107507
+    locked: 0
+  - name: Moon
+    uniqueID: 2572908339
+    locked: 0
+  - name: buildings_back
+    uniqueID: 2483433361
+    locked: 0
+  - name: buildings_front
+    uniqueID: 1356964519
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
